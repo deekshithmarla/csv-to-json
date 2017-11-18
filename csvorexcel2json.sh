@@ -1,8 +1,7 @@
 #!/bin/bash
 # CSV to JSON converter using BASH
-# original script from http://blog.secaserver.com/2013/12/convert-csv-json-bash/
-# thanks SecaGuy!
 # Usage ./csv2json.sh input.csv > output.json
+
  
 input=$1
  
